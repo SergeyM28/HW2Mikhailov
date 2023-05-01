@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed17044d-3a43-4875-bc46-0c81b825c47b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/mikhailov/NoBlankspaceInputer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mikhailov/FloatReturner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mikhailov/FloatReturner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/mikhailov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/mikhailov/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed17044d-3a43-4875-bc46-0c81b825c47b" name="Changes" comment="HW Mikhailov seminar 2 Exceptions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1682953592332</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW Mikhailov seminar 2 Exceptions">
+      <created>1682960997732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682960997732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -63,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW Mikhailov seminar 2 Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW Mikhailov seminar 2 Exceptions" />
   </component>
 </project>

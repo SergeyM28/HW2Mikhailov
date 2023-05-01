@@ -13,16 +13,23 @@ public class Main {
     public static void main(String[] args) {
 
     // Задание 1
+    System.out.println("Задание 1");
     FloatReturner fr = new FloatReturner();
     System.out.println(fr.floatInput());
+    System.out.println("");
 
     // Задание 2
+    System.out.println("Задание 2");
     task2();
+    System.out.println("");
 
     // Задание 3
+    System.out.println("Задание 3");
     task3();
+    System.out.println("");
 
     // Задание 4
+    System.out.println("Задание 4");
     NoBlankspaceInputer nbi = new NoBlankspaceInputer();
     nbi.input();
     }
